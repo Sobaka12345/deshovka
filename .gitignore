@@ -1,0 +1,10 @@
+build
+build-wasm
+build_env
+qt-wasm
+.vscode
+.cache
+.qt
+CMakeLists.txt.user
+CMakeUserPresets.json
+compile_commands.json

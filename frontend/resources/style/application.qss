@@ -1,0 +1,20 @@
+
+/***** BEGIN MainWindow *****/
+
+MainWindow QWidget#contentContainer {
+    background: transparent;
+}
+
+/***** END MainWindow *****/
+
+/***** BEGIN TitleBar *****/
+
+shell--TitleBar {
+    background: gray;
+}
+
+shell--TitleBarButton {
+    background: red;
+}
+
+/***** END TitleBar   *****/
