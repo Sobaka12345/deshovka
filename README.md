@@ -1,6 +1,6 @@
 # deshovka
 
-Cross-platform-desktop-web client for online shopping
+Cross-platform-desktop-web app
 
 ## Build
 To configure the project with a default configuration simply run confuguration script:
